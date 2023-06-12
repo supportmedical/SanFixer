@@ -1,2 +1,3 @@
-# SanFixer
+# SanFixer in Escape from Tarkov
+
 Software that facilitates the work of the computer while using Escape from Tarkov
